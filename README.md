@@ -39,7 +39,9 @@ The Executive Overview provides a high-level view of business performance, inclu
 
 Page 2: Products & Sales Performance
 This page analyzes product and category performance using units sold, top products by revenue, average profit margin. 
-<img width="800" height="558" alt="Products   Sales" src="https://github.com/user-attachments/assets/f94375c7-ba97-453d-ad30-c0790745cb73" />
+<img width="800" height="558" alt="Products   Sales" src="https://github.com/user-attachments/assets/791310ba-3217-4d03-b92d-4f22d1b637a1" />
+
+
 
 
 Page 3: Customer & Operations
